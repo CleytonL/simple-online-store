@@ -10,7 +10,7 @@
 
 - Construir uma página para exibição de produtos de uma loja online.
 
-- 🔮 [Clique aqui para visualizar o projeto](cleytonl.github.io/simple-online-store/)
+- 🔮 [Clique aqui para visualizar o projeto](https://cleytonl.github.io/simple-online-store/)
 
 
 ## 🟣 Tecnologias usadas
