@@ -6,13 +6,12 @@
 
 - Projeto desenvolvido para o desafio Devchallenge.
 
-## desafio proposto
+## Qual o desafio que foi proposto?
 
 - Construir uma página para exibição de produtos de uma loja online.
+  acesse o projeto no link abaixo!
 
-
-
-🔮[Clique aqui para visualizar o projeto]()
+- 🔮[Clique aqui para visualizar o projeto](cleytonl.github.io/simple-online-store/)
 
 
 ## 🟣 Tecnologias usadas
