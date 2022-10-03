@@ -9,9 +9,8 @@
 ## Qual o desafio que foi proposto?
 
 - Construir uma página para exibição de produtos de uma loja online.
-  acesse o projeto no link abaixo!
 
-- 🔮[Clique aqui para visualizar o projeto](cleytonl.github.io/simple-online-store/)
+- 🔮 [Clique aqui para visualizar o projeto](cleytonl.github.io/simple-online-store/)
 
 
 ## 🟣 Tecnologias usadas
